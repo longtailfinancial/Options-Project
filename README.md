@@ -66,4 +66,4 @@ Users are responsible for obtaining their own API keys.
     - *Format*: `{time_to_maturity}.csv`
     - US treasury yield (return ratio **per day**). Unit of day rather than year to match greeks (e.g. Theta)
         - daily rate by linear interpolation
-        - daily rate by exponential interpolation (continuous compounding)
+        - daily rate by exponential interpolation (continuous compounding).
